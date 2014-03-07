@@ -1,4 +1,4 @@
 dev
 ===
 
-Wiki for NUnit developers to share information.
+[Wiki](../../wiki) for NUnit developers to share information.
