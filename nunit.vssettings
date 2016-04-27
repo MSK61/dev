@@ -51,13 +51,13 @@
                 <PropertyValue name="Space_BetweenEmptyMethodCallParentheses">0</PropertyValue>
                 <PropertyValue name="Space_BetweenEmptyMethodDeclarationParentheses">0</PropertyValue>
                 <PropertyValue name="Space_BetweenEmptySquares">0</PropertyValue>
-                <PropertyValue name="Space_InControlFlowConstruct">0</PropertyValue>
+                <PropertyValue name="Space_InControlFlowConstruct">1</PropertyValue>
                 <PropertyValue name="Space_Normalize">0</PropertyValue>
                 <PropertyValue name="Space_WithinCastParentheses">0</PropertyValue>
                 <PropertyValue name="Space_WithinExpressionParentheses">0</PropertyValue>
                 <PropertyValue name="Space_WithinMethodCallParentheses">0</PropertyValue>
                 <PropertyValue name="Space_WithinMethodDeclarationParentheses">0</PropertyValue>
-                <PropertyValue name="Space_WithinOtherParentheses">1</PropertyValue>
+                <PropertyValue name="Space_WithinOtherParentheses">0</PropertyValue>
                 <PropertyValue name="Space_WithinSquares">0</PropertyValue>
                 <PropertyValue name="Wrapping_IgnoreSpacesAroundBinaryOperators">0</PropertyValue>
                 <PropertyValue name="Wrapping_IgnoreSpacesAroundVariableDeclaration">0</PropertyValue>
